@@ -1,2 +1,6 @@
 # hello-world
-Hello world. This is for learning GitHub
+Hello there
+
+I am working this beacuse I am planing to move on GitHub for my projects. 
+
+Lets see what it offers. Hurry.
